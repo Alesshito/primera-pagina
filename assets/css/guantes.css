@@ -1,0 +1,20 @@
+.related-products h4 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .related-products .card {
+    border: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .related-products .card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .related-products .card-title {
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+  
