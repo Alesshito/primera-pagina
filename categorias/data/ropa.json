@@ -1,0 +1,94 @@
+[
+    {
+      "id": "RopaCleto1",
+      "nombre": "Ropa deportiva | Cleto Reyes",
+      "imagen": "assets/productos/ropa/RopaCleto1.webp",
+      "marca": "Cleto Reyes",
+      "precio": 50.00,
+      "descripcion": "Camiseta técnica de alto rendimiento ideal para entrenamientos de box.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuCleto1", "ShortCleto1"]
+    },
+    {
+      "id": "RopaCleto2",
+      "nombre": "Ropa deportiva | Cleto Reyes",
+      "imagen": "assets/productos/ropa/RopaCleto2.webp",
+      "marca": "Cleto Reyes",
+      "precio": 75.00,
+      "descripcion": "Camiseta técnica de alto rendimiento ideal para entrenamientos de box.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuCleto2", "ShortCleto2"]
+    },
+    {
+      "id": "RopaPretorian1",
+      "nombre": "Ropa deportiva | Pretorian",
+      "imagen": "assets/productos/ropa/RopaPretorian1.webp",
+      "marca": "Pretorian",
+      "precio": 60.00,
+      "descripcion": "Camiseta deportiva cómoda, resistente y con diseño clásico de Pretorian.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuEver1", "ShortCleto3"]
+    },
+    {
+      "id": "RopaVenum1",
+      "nombre": "Ropa deportiva | Venum",
+      "imagen": "assets/productos/ropa/RopaVenum1.jpeg",
+      "marca": "Venum",
+      "precio": 80.00,
+      "descripcion": "Prenda deportiva Venum, ideal para entrenamientos y competencias de combate.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuVenum1", "ShortVenum1"]
+    },
+    {
+      "id": "RopaVenum2",
+      "nombre": "Ropa deportiva | Venum",
+      "imagen": "assets/productos/ropa/RopaVenum2.jpg",
+      "marca": "Venum",
+      "precio": 100.00,
+      "descripcion": "Prenda deportiva Venum, ideal para entrenamientos y competencias de combate.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuVenum2", "ShortVenum2"]
+    },
+    {
+      "id": "RopaVenum3",
+      "nombre": "Ropa deportiva | Venum algodón",
+      "imagen": "assets/productos/ropa/RopaVenum3.jpeg",
+      "marca": "Venum",
+      "precio": 150.00,
+      "descripcion": "Camiseta premium de algodón de la marca Venum. Suave y resistente.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Algodón" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuVenum3", "ShortVenum3"]
+    },
+    {
+      "id": "RopaVenum4",
+      "nombre": "Ropa deportiva | Venum",
+      "imagen": "assets/productos/ropa/RopaVenum4.jpg",
+      "marca": "Venum",
+      "precio": 90.00,
+      "descripcion": "Prenda deportiva Venum, ideal para entrenamientos y competencias de combate.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuVenum1", "ShortVenum4"]
+    }
+  ]
+  

@@ -1,0 +1,81 @@
+[
+    {
+      "id": "VendaAli1",
+      "nombre": "Venda de boxeo | Ali",
+      "imagen": "assets/productos/venda/VendaAli1.jpeg",
+      "marca": "Ali",
+      "precio": 55.00,
+      "descripcion": "Venda profesional para proteger tus manos en cada entrenamiento.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Algodón y microfibra" },
+        { "nombre": "Longitud", "valor": "3.5 metros, 4 metros, 5 metros" }
+      ],
+      "relacionados": ["GuEver1", "RopaCleto1"]
+    },
+    {
+      "id": "VendaEver1",
+      "nombre": "Venda de boxeo | Everlast",
+      "imagen": "assets/productos/venda/VendaEver1.webp",
+      "marca": "Everlast",
+      "precio": 60.00,
+      "descripcion": "Venda profesional para proteger tus manos en cada entrenamiento.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Algodón y microfibra" },
+        { "nombre": "Longitud", "valor": "3.5 metros, 4 metros, 5 metros" }
+      ],
+      "relacionados": ["GuEver2", "RopaCleto2"]
+    },
+    {
+      "id": "VendaEver2",
+      "nombre": "Venda de boxeo | Everlast",
+      "imagen": "assets/productos/venda/VendaEver2.jpeg",
+      "marca": "Everlast",
+      "precio": 70.00,
+      "descripcion": "Venda profesional para proteger tus manos en cada entrenamiento.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Algodón y microfibra" },
+        { "nombre": "Longitud", "valor": "3.5 metros, 4 metros, 5 metros" }
+      ],
+      "relacionados": ["GuCleto1", "RopaPretorian1"]
+    },
+    {
+      "id": "VendaVenum1",
+      "nombre": "Venda de boxeo | Venum",
+      "imagen": "assets/productos/venda/VendaVenum1.jpeg",
+      "marca": "Venum",
+      "precio": 65.00,
+      "descripcion": "Venda profesional para proteger tus manos en cada entrenamiento.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Algodón y microfibra" },
+        { "nombre": "Longitud", "valor": "3.5 metros, 4 metros, 5 metros" }
+      ],
+      "relacionados": ["GuVenum1", "RopaVenum1"]
+    },
+    {
+      "id": "VendaVenum2",
+      "nombre": "Venda de boxeo | Venum",
+      "imagen": "assets/productos/venda/VendaVenum2.jpeg",
+      "marca": "Venum",
+      "precio": 75.00,
+      "descripcion": "Venda profesional para proteger tus manos en cada entrenamiento.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Algodón y microfibra" },
+        { "nombre": "Longitud", "valor": "3.5 metros, 4 metros, 5 metros" }
+      ],
+      "relacionados": ["GuVenum2", "RopaVenum2"]
+    },
+    {
+      "id": "VendaVenum3",
+      "nombre": "Venda de boxeo | Venum",
+      "imagen": "assets/productos/venda/VendaVenum3.webp",
+      "marca": "Venum",
+      "precio": 80.00,
+      "descripcion": "Venda profesional para proteger tus manos en cada entrenamiento.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Algodón y microfibra" },
+        { "nombre": "Longitud", "valor": "3.5 metros, 4 metros, 5 metros" }
+      ],
+      "relacionados": ["GuVenum3", "RopaVenum4"]
+    }
+  ]
+  

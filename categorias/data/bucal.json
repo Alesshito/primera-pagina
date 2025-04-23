@@ -1,0 +1,80 @@
+[
+    {
+      "id": "BucalEver1",
+      "nombre": "Protector bucal | Everlast",
+      "imagen": "assets/productos/bucal/BucalEver1.jpeg",
+      "marca": "Everlast",
+      "precio": 110.00,
+      "descripcion": "Protector bucal de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Silicona" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuEver1", "GuEver2"]
+    },
+    {
+      "id": "BucalEver2",
+      "nombre": "Protector bucal | Everlast",
+      "imagen": "assets/productos/bucal/BucalEver2.webp",
+      "marca": "Everlast",
+      "precio": 130.00,
+      "descripcion": "Protector bucal de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Silicona" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuEver1", "GuEver2"]
+    },
+    {
+      "id": "BucalVenum1",
+      "nombre": "Protector bucal | Venum",
+      "imagen": "assets/productos/bucal/BucalVenum1.jpeg",
+      "marca": "Venum",
+      "precio": 140.00,
+      "descripcion": "Protector bucal de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Silicona" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuVenum1", "GuVenum2"]
+    },
+    {
+      "id": "BucalVenum2",
+      "nombre": "Protector bucal | Venum",
+      "imagen": "assets/productos/bucal/BucalVenum2.jpeg",
+      "marca": "Venum",
+      "precio": 125.00,
+      "descripcion": "Protector bucal de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Silicona" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuVenum2", "GuVenum3"]
+    },
+    {
+      "id": "BucalVenum3",
+      "nombre": "Protector bucal | Venum",
+      "imagen": "assets/productos/bucal/BucalVenum3.jpg",
+      "marca": "Venum",
+      "precio": 160.00,
+      "descripcion": "Protector bucal de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Silicona" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuVenum1"]
+    },
+    {
+      "id": "BucalVenum4",
+      "nombre": "Protector bucal | Venum",
+      "imagen": "assets/productos/bucal/BucalVenum4.jpg",
+      "marca": "Venum",
+      "precio": 135.00,
+      "descripcion": "Protector bucal de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Silicona" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuVenum3"]
+    }
+  ]

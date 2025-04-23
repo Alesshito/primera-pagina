@@ -1,0 +1,99 @@
+[
+    {
+      "id": "EspAli1",
+      "nombre": "Espinillera de box | Ali",
+      "imagen": "assets/productos/espinilera/EspAli1.jpeg",
+      "marca": "Ali",
+      "precio": 180.00,
+      "descripcion": "Espinillera de alta calidad para entrenamiento y combate. Marca Ali, de origen internacional.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "EspAli2",
+      "nombre": "Espinillera de box | Ali",
+      "imagen": "assets/productos/espinilera/EspAli2.jpeg",
+      "marca": "Ali",
+      "precio": 200.00,
+      "descripcion": "Espinillera de alta calidad para entrenamiento y combate. Marca Ali, de origen internacional.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "EspEver1",
+      "nombre": "Espinillera de box | Everlast",
+      "imagen": "assets/productos/espinilera/EspEver1.jpeg",
+      "marca": "Everlast",
+      "precio": 210.00,
+      "descripcion": "Espinillera de alta calidad para entrenamiento y combate. Marca Everlast, de origen estadounidense.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "EspEver2",
+      "nombre": "Espinillera de box | Everlast",
+      "imagen": "assets/productos/espinilera/EspEver2.jpeg",
+      "marca": "Everlast",
+      "precio": 225.00,
+      "descripcion": "Espinillera de alta calidad para entrenamiento y combate. Marca Everlast, de origen estadounidense.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "EspVenum1",
+      "nombre": "Espinillera de box | Venum",
+      "imagen": "assets/productos/espinilera/EspVenum1.webp",
+      "marca": "Venum",
+      "precio": 240.00,
+      "descripcion": "Espinillera de alta calidad para entrenamiento y combate. Marca Venum, de origen francés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "EspVenum2",
+      "nombre": "Espinillera de box | Venum",
+      "imagen": "assets/productos/espinilera/EspVenum2.jpeg",
+      "marca": "Venum",
+      "precio": 260.00,
+      "descripcion": "Espinillera de alta calidad para entrenamiento y combate. Marca Venum, de origen francés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "EspVenum3",
+      "nombre": "Espinillera de box | Venum",
+      "imagen": "assets/productos/espinilera/EspVenum3.jpeg",
+      "marca": "Venum",
+      "precio": 275.00,
+      "descripcion": "Espinillera de alta calidad para entrenamiento y combate. Marca Venum, de origen francés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "EspVenum4",
+      "nombre": "Espinillera de box | Venum",
+      "imagen": "assets/productos/espinilera/EspVenum4.webp",
+      "marca": "Venum",
+      "precio": 295.00,
+      "descripcion": "Espinillera de alta calidad para entrenamiento y combate. Marca Venum, de origen francés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    }
+  ]
+  

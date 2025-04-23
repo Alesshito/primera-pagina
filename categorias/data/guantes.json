@@ -1,0 +1,133 @@
+[
+    {
+      "id": "GuEver1",
+      "nombre": "Guantes de box | Everlast",
+      "imagen": "assets/productos/guantes/GuEver1.jpg",
+      "marca": "Everlast",
+      "precio": 150.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuEver2",
+      "nombre": "Guantes de box | Everlast",
+      "imagen": "assets/productos/guantes/GuEver2.jpeg",
+      "marca": "Everlast",
+      "precio": 175.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Microfibra" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuCleto1",
+      "nombre": "Guantes de box | Cleto Reyes",
+      "imagen": "assets/productos/guantes/GuCleto1.webp",
+      "marca": "Cleto Reyes",
+      "precio": 280.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuCleto2",
+      "nombre": "Guantes de box | Cleto Reyes",
+      "imagen": "assets/productos/guantes/GuCleto2.webp",
+      "marca": "Cleto Reyes",
+      "precio": 300.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Microfibra" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuCleto3",
+      "nombre": "Guantes de box | Cleto Reyes",
+      "imagen": "assets/productos/guantes/GuCleto3.jpeg",
+      "marca": "Cleto Reyes",
+      "precio": 320.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuVenum1",
+      "nombre": "Guantes de box | Venum",
+      "imagen": "assets/productos/guantes/GuVenum1.jpeg",
+      "marca": "Venum",
+      "precio": 190.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Microfibra" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuVenum2",
+      "nombre": "Guantes de MMA | Venum",
+      "imagen": "assets/productos/guantes/GuVenum2.jpg",
+      "marca": "Venum",
+      "precio": 220.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuVenum3",
+      "nombre": "Guantes de MMA | Venum",
+      "imagen": "../assets/productos/guantes/GuVenum3.webp",
+      "marca": "Venum",
+      "precio": 240.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Microfibra" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuMakoto1",
+      "nombre": "Guantes de MMA | Makoto",
+      "imagen": "assets/productos/guantes/GuMakoto1.jpeg",
+      "marca": "Makoto",
+      "precio": 160.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca japonesa Makoto",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "GuMakoto2",
+      "nombre": "Guantes de MMA | Makoto",
+      "imagen": "assets/productos/guantes/GuMakoto2.webp",
+      "marca": "Makoto",
+      "precio": 185.00,
+      "descripcion": "Guante para boxeo de alta calidad de la reconocida marca japonesa Makoto",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Microfibra" },
+        { "nombre": "Medida", "valor": "10 oz, 12 oz, 16 oz" }
+      ],
+      "relacionados": []
+    }
+  ]
+  

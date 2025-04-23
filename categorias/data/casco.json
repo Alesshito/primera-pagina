@@ -1,0 +1,120 @@
+[
+    {
+      "id": "CasCleto1",
+      "nombre": "Casco de box | Cleto Reyes",
+      "imagen": "assets/productos/casco/CasCleto1.jpg",
+      "marca": "Cleto Reyes",
+      "precio": 210.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["guante-boxeo-cleto", "SacoCleto1"]
+    },
+    {
+      "id": "CasCleto2",
+      "nombre": "Casco de box | Cleto Reyes",
+      "imagen": "assets/productos/casco/CasCleto2.jpeg",
+      "marca": "Cleto Reyes",
+      "precio": 230.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuCleto2", "SacoCleto1"]
+    },
+    {
+      "id": "CasEver1",
+      "nombre": "Casco de box | Everlast",
+      "imagen": "assets/productos/casco/CasEver1.jpg",
+      "marca": "Everlast",
+      "precio": 190.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuEver1", "SacoEver1"]
+    },
+    {
+      "id": "CasEver2",
+      "nombre": "Casco de box | Everlast",
+      "imagen": "assets/productos/casco/CasEver2.jpg",
+      "marca": "Everlast",
+      "precio": 175.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuEver2", "SacoEver2"]
+    },
+    {
+      "id": "CasEver3",
+      "nombre": "Casco de box | Everlast",
+      "imagen": "assets/productos/casco/CasEver3.webp",
+      "marca": "Everlast",
+      "precio": 205.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuEver1", "SacoEver3"]
+    },
+    {
+      "id": "CasVenum1",
+      "nombre": "Casco de box | Venum",
+      "imagen": "assets/productos/casco/CasVenum1.jpeg",
+      "marca": "Venum",
+      "precio": 260.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuVenum1", "SacoVenum1"]
+    },
+    {
+      "id": "CasVenum2",
+      "nombre": "Casco de box | Venum",
+      "imagen": "assets/productos/casco/CasVenum2.webp",
+      "marca": "Venum",
+      "precio": 240.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuVenum2", "SacoVenum2"]
+    },
+    {
+      "id": "CasVenum3",
+      "nombre": "Casco de box | Venum",
+      "imagen": "assets/productos/casco/CasVenum3.webp",
+      "marca": "Venum",
+      "precio": 270.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuVenum3", "SacoVenum3"]
+    },
+    {
+      "id": "CasVenum4",
+      "nombre": "Casco de box | Venum",
+      "imagen": "assets/productos/casco/CasVenum4.jpeg",
+      "marca": "Venum",
+      "precio": 225.00,
+      "descripcion": "Casco para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ],
+      "relacionados": ["GuVenum1", "SacoVenum4"]
+    }
+  ]
+  

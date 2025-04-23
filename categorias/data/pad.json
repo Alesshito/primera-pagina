@@ -1,0 +1,99 @@
+[
+    {
+      "id": "PadCleto1",
+      "nombre": "Pads de box | Cleto Reyes",
+      "imagen": "assets/productos/espinillera/PadCleto1.jpeg",
+      "marca": "Cleto Reyes",
+      "precio": 220.00,
+      "descripcion": "Pads de alta calidad para entrenamiento intensivo. Marca Cleto Reyes, de origen mexicano.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "PadEver1",
+      "nombre": "Pads de box | Everlast",
+      "imagen": "assets/productos/espinillera/PadEver1.jpeg",
+      "marca": "Everlast",
+      "precio": 180.00,
+      "descripcion": "Pads de alta calidad para entrenamiento intensivo. Marca Everlast, de origen estadounidense.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "PadEver2",
+      "nombre": "Pads de box | Everlast",
+      "imagen": "assets/productos/espinillera/PadEver2.jpeg",
+      "marca": "Everlast",
+      "precio": 195.00,
+      "descripcion": "Pads de alta calidad para entrenamiento intensivo. Marca Everlast, de origen estadounidense.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "PadMakoto1",
+      "nombre": "Pads de box | Makoto",
+      "imagen": "assets/productos/espinillera/PadMakoto1.webp",
+      "marca": "Makoto",
+      "precio": 165.00,
+      "descripcion": "Pads de alta calidad para entrenamiento intensivo. Marca Makoto, de origen japonés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "PadVenum1",
+      "nombre": "Pads de box | Venum",
+      "imagen": "assets/productos/espinillera/PadVenum1.webp",
+      "marca": "Venum",
+      "precio": 210.00,
+      "descripcion": "Pads de alta calidad para entrenamiento intensivo. Marca Venum, de origen francés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "PadVenum2",
+      "nombre": "Pads de box | Venum",
+      "imagen": "assets/productos/espinillera/PadVenum2.jpeg",
+      "marca": "Venum",
+      "precio": 230.00,
+      "descripcion": "Pads de alta calidad para entrenamiento intensivo. Marca Venum, de origen francés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "PadVenum3",
+      "nombre": "Pads de box | Venum",
+      "imagen": "assets/productos/espinillera/PadVenum3.jpeg",
+      "marca": "Venum",
+      "precio": 245.00,
+      "descripcion": "Pads de alta calidad para entrenamiento intensivo. Marca Venum, de origen francés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    },
+    {
+      "id": "PadVenum4",
+      "nombre": "Pads de box | Venum",
+      "imagen": "assets/productos/espinillera/PadVenum4.webp",
+      "marca": "Venum",
+      "precio": 260.00,
+      "descripcion": "Pads de alta calidad para entrenamiento intensivo. Marca Venum, de origen francés.",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Medida", "valor": "S, M, L" }
+      ]
+    }
+  ]
+  

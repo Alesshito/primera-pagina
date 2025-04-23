@@ -1,0 +1,136 @@
+[
+  {
+    "id": "SacoCleto1",
+    "nombre": "Saco de box | Cleto Reyes",
+    "imagen": "assets/productos/sacos/SacoCleto1.jpg",
+    "marca": "Cleto Reyes",
+    "precio": 250.00,
+    "descripcion": "Saco para boxeo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+    "caracteristicas": [
+      { "nombre": "Material", "valor": "Cuero sintético" },
+      { "nombre": "Tamaño", "valor": "M, L, XL" }
+    ],
+    "relacionados": ["guante-boxeo-everlast","guante-boxeo-cleto"]
+  },
+  
+    {
+      "id": "SacoEver1",
+      "nombre": "Saco de box | Everlast",
+      "imagen": "assets/productos/sacos/SacoEver1.jpg",
+      "marca": "Everlast",
+      "precio": 180.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "SacoEver2",
+      "nombre": "Saco de box | Everlast",
+      "imagen": "assets/productos/sacos/SacoEver2.webp",
+      "marca": "Everlast",
+      "precio": 210.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "SacoEver3",
+      "nombre": "Saco de box | Everlast",
+      "imagen": "assets/productos/sacos/SacoEver3.jpg",
+      "marca": "Everlast",
+      "precio": 240.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca estadounidense Everlast",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "SacoVenum1",
+      "nombre": "Saco de box | Venum",
+      "imagen": "assets/productos/sacos/SacoVenum1.webp",
+      "marca": "Venum",
+      "precio": 260.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "SacoVenum2",
+      "nombre": "Saco de box | Venum",
+      "imagen": "assets/productos/sacos/SacoVenum2.jpeg",
+      "marca": "Venum",
+      "precio": 310.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "SacoVenum3",
+      "nombre": "Saco de box | Venum",
+      "imagen": "assets/productos/sacos/SacoVenum3.webp",
+      "marca": "Venum",
+      "precio": 220.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "SacoVenum4",
+      "nombre": "Saco de box | Venum",
+      "imagen": "assets/productos/sacos/SacoVenum4.webp",
+      "marca": "Venum",
+      "precio": 350.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "SacoMakoto1",
+      "nombre": "Saco de box | Makoto",
+      "imagen": "assets/productos/sacos/SacoMakoto1.webp",
+      "marca": "Makoto",
+      "precio": 170.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca japonesa Makoto",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    },
+    {
+      "id": "SacoMakoto2",
+      "nombre": "Saco de box | Makoto",
+      "imagen": "assets/productos/sacos/SacoMakoto2.webp",
+      "marca": "Makoto",
+      "precio": 195.00,
+      "descripcion": "Saco para boxeo de alta calidad de la reconocida marca japonesa Makoto",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Cuero sintético" },
+        { "nombre": "Tamaño", "valor": "1 metro, 1.5 metros, 2 metros" }
+      ],
+      "relacionados": []
+    }
+  
+  
+ 
+]

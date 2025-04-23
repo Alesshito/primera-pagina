@@ -1,0 +1,35 @@
+[
+    {
+      "id": "acce1",
+      "nombre": "Accesorio de entrenamiento | Importado",
+      "imagen": "assets/productos/accesorio/acce1.webp",
+      "marca": "Importado",
+      "precio": 75.00,
+      "descripcion": "Rack de excelente calidad, importado"
+    },
+    {
+      "id": "acce2",
+      "nombre": "Accesorio de entrenamiento | Importado",
+      "imagen": "assets/productos/accesorio/acce2.jpeg",
+      "marca": "Importado",
+      "precio": 60.00,
+      "descripcion": "Útil para mejorar tu velocidad en boxeo"
+    },
+    {
+      "id": "acce3",
+      "nombre": "Accesorio de entrenamiento | Importado",
+      "imagen": "assets/productos/accesorio/acce3.webp",
+      "marca": "Importado",
+      "precio": 95.00,
+      "descripcion": "Útil para mejorar tu velocidad y reflejos en el boxeo"
+    },
+    {
+      "id": "acce4",
+      "nombre": "Accesorio de entrenamiento | Importado",
+      "imagen": "assets/productos/accesorio/acce4.webp",
+      "marca": "Importado",
+      "precio": 85.00,
+      "descripcion": "Cuerda para saltar"
+    }
+  ]
+  

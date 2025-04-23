@@ -1,0 +1,107 @@
+[
+    {
+      "id": "ShortCleto1",
+      "nombre": "Short de box | Cleto Reyes",
+      "imagen": "assets/productos/short/ShortCleto1.webp",
+      "marca": "Cleto Reyes",
+      "precio": 100.00,
+      "descripcion": "Short deportivo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuCleto1", "CasCleto1"]
+    },
+    {
+      "id": "ShortCleto2",
+      "nombre": "Short de box | Cleto Reyes",
+      "imagen": "assets/productos/short/ShortCleto2.jpeg",
+      "marca": "Cleto Reyes",
+      "precio": 120.00,
+      "descripcion": "Short deportivo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuCleto2", "CasCleto2"]
+    },
+    {
+      "id": "ShortCleto3",
+      "nombre": "Short de box | Cleto Reyes",
+      "imagen": "assets/productos/short/ShortCleto3.jpg",
+      "marca": "Cleto Reyes",
+      "precio": 140.00,
+      "descripcion": "Short deportivo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuCleto3", "CasCleto1"]
+    },
+    {
+      "id": "ShortCleto4",
+      "nombre": "Short de box | Cleto Reyes",
+      "imagen": "assets/productos/short/ShortCleto4.jpeg",
+      "marca": "Cleto Reyes",
+      "precio": 160.00,
+      "descripcion": "Short deportivo de alta calidad de la reconocida marca mexicana Cleto Reyes",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuCleto1", "CasCleto2"]
+    },
+    {
+      "id": "ShortVenum1",
+      "nombre": "Short de box | Venum",
+      "imagen": "assets/productos/short/ShortVenum1.webp",
+      "marca": "Venum",
+      "precio": 180.00,
+      "descripcion": "Short deportivo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuVenum1", "CasVenum1"]
+    },
+    {
+      "id": "ShortVenum2",
+      "nombre": "Short de box | Venum",
+      "imagen": "assets/productos/short/ShortVenum2.jpg",
+      "marca": "Venum",
+      "precio": 200.00,
+      "descripcion": "Short deportivo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuVenum2", "CasVenum2"]
+    },
+    {
+      "id": "ShortVenum3",
+      "nombre": "Short de box | Venum",
+      "imagen": "assets/productos/short/ShortVenum3.jpeg",
+      "marca": "Venum",
+      "precio": 225.00,
+      "descripcion": "Short deportivo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuVenum3", "CasVenum3"]
+    },
+    {
+      "id": "ShortVenum4",
+      "nombre": "Short de box | Venum",
+      "imagen": "assets/productos/short/ShortVenum4.webp",
+      "marca": "Venum",
+      "precio": 250.00,
+      "descripcion": "Short deportivo de alta calidad de la reconocida marca francesa Venum",
+      "caracteristicas": [
+        { "nombre": "Material", "valor": "Licra poliéster" },
+        { "nombre": "Talla", "valor": "S, M, L, XL" }
+      ],
+      "relacionados": ["GuVenum1", "CasVenum4"]
+    }
+  ]
+  
